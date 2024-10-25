@@ -185,5 +185,3 @@ def chat():
    ```
 
 Now you have a functioning vehicle telematics chatbot system with NLP capabilities to handle queries and retrieve information from a MySQL database. This system can be further enhanced by adding more intents or optimizing the Rasa bot's training data. 
-
-Let me know if you’d like more details on any part!
